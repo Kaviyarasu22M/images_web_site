@@ -5,7 +5,7 @@ A simple image gallery where users can like and download images.
 
 🔗 Live Demo: https://imagewebsite.netlify.app
 
-✨ Features
+# ✨ Features
 Responsive design (mobile-friendly)
 
 Like button for each image ❤️
@@ -14,12 +14,12 @@ Download button to save images ⬇️
 
 Fast and easy to use
 
-🛠️ Technologies
+# 🛠️ Technologies
 
-# HTML
+ HTML
 
-# CSS
+CSS
 
-# JavaScript
+JavaScript
 
-# Netlify – For deployment and hosting
+Netlify – For deployment and hosting
