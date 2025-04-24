@@ -15,10 +15,11 @@ Download button to save images ⬇️
 Fast and easy to use
 
 🛠️ Technologies
-HTML
 
-CSS
+# HTML
 
-JavaScript
+# CSS
 
-Netlify – For deployment and hosting
+# JavaScript
+
+# Netlify – For deployment and hosting
