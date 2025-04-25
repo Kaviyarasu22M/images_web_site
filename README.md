@@ -3,7 +3,7 @@
 📸 Image Gallery Website
 A simple image gallery where users can like and download images.
 
-🔗 Live Demo: https://imagewebsite.netlify.app
+🔗 Live Demo: https://imagewebsite1.netlify.app
 
 # ✨ Features
 Responsive design (mobile-friendly)
